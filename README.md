@@ -21,11 +21,20 @@ Descripción:
 En esta practica se realizaron los siguientes puntos 
 -Toma de requerimientos
 https://docs.google.com/document/d/1lCekr1Uy7WJAzhbdS8hC5pDhKYxJbj96T8LGvRrA7xg/edit?usp=sharing
+
+
 -Buyer persona
 https://docs.google.com/document/d/1mwJbA8i7x_XPkzr9LITxoPNnKvclT202R4C9F3CLJoY/edit?usp=sharing
+
+
 -Publico objetivo
 https://docs.google.com/document/d/1mwJbA8i7x_XPkzr9LITxoPNnKvclT202R4C9F3CLJoY/edit?usp=sharing
+
+
 -Wireframe UX
 https://www.figma.com/file/hquMhJbLbI8UpkprLA28Sw/Figma?node-id=1128%3A14
+
 -UI
 https://www.figma.com/file/hquMhJbLbI8UpkprLA28Sw/Figma?node-id=1128%3A14
+
+
